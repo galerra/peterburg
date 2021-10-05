@@ -1,5 +1,5 @@
 # peterburg
-
+https://www.google.com/search?q=git+syntax+cheat+sheet&rlz=1C1GCEU_ruRU974&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVxtOF0bLzAhUdAxAIHQiTCp0Q_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=prSPr0CbduQeZM
 Тут находится великолепная документация второго кейса 
 из Санкт-Петербурга.
 
