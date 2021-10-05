@@ -1,5 +1,5 @@
 # peterburg
-![image](https://user-images.githubusercontent.com/91934759/135971181-3d5b3ac4-fcd4-467a-b5ba-df2c719cc5dc.png)
+![image](https://user-images.githubusercontent.com/91934759/135971331-633235c3-84f2-4702-ab6a-1d784de6b5ba.png)
 
 Тут находится великолепная документация второго кейса 
 из Санкт-Петербурга.
